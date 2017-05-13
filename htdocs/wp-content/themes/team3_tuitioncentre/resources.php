@@ -2,7 +2,7 @@
 /*
 Template Name: resources
 */
-
+//ererer
 
 get_header(); ?>
 

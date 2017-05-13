@@ -38,7 +38,7 @@ get_header(); ?>
                 }
                 echo "</table>";
             else:
-                echo "h000";
+                echo "You need to login first to view this content";
             endif;
 
             ?>
